@@ -1,0 +1,14 @@
+CGOPackageUnit {
+	#description : '',
+	#version : '0.1.0-dev',
+	#package : #Grease-Core,
+	#timestamp : DateAndTime [ '2017-06-22T16:46:53.110269+02:00' ],
+	#src : CGOGitHostedPackageVersion {
+		#repository : CGOGitRepository {
+			#repositoryUrl : 'git@github.com:demarey/Grease-cargo.git',
+			#subdirectory : 'repository'
+		},
+		#packageName : #Grease-Core
+	},
+	#dependencies : [ ]
+}

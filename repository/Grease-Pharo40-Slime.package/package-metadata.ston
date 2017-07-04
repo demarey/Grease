@@ -1,0 +1,22 @@
+CGOPackageUnit {
+	#description : '',
+	#version : '0.1.0-dev',
+	#package : #Grease-Pharo40-Slime,
+	#timestamp : DateAndTime [ '2017-06-29T16:09:47.241632+02:00' ],
+	#src : CGOGitHostedPackageVersion {
+		#repository : CGOGitRepository {
+			#repositoryUrl : 'git@github.com:demarey/Grease-cargo.git',
+			#subdirectory : 'repository'
+		},
+		#packageName : #Grease-Pharo40-Slime
+	},
+	#dependencies : [
+		#Grease-Core-Platform : [ ]
+	],
+	#platformRequirements : [
+		#pharo
+	],
+	#provisions : [
+		'Grease-Slime@1.0.0'
+	]
+}

@@ -1,0 +1,22 @@
+CGOPackageUnit {
+	#description : '',
+	#version : '0.1.0-dev',
+	#package : #Grease-Pharo60-Core,
+	#timestamp : DateAndTime [ '2017-06-22T17:21:30.065767+02:00' ],
+	#src : CGOGitHostedPackageVersion {
+		#repository : CGOGitRepository {
+			#repositoryUrl : 'git@github.com:demarey/Grease-cargo.git',
+			#subdirectory : 'repository'
+		},
+		#packageName : #Grease-Pharo60-Core
+	},
+	#dependencies : [
+		#Grease-Core : [ ]
+	],
+	#platformRequirements : [
+		#pharo6.x
+	],
+	#provisions : [
+		'Grease-Core-Platform@1.0.0'
+	]
+}

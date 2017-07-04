@@ -1,0 +1,22 @@
+CGOPackageUnit {
+	#description : '',
+	#version : '0.1.0-dev',
+	#package : #Grease-Tests-Pharo20-Core,
+	#timestamp : DateAndTime [ '2017-06-22T17:23:07.165536+02:00' ],
+	#src : CGOGitHostedPackageVersion {
+		#repository : CGOGitRepository {
+			#repositoryUrl : 'git@github.com:demarey/Grease-cargo.git',
+			#subdirectory : 'repository'
+		},
+		#packageName : #Grease-Tests-Pharo20-Core
+	},
+	#dependencies : [
+		#Grease-Tests-Core : [ ]
+	],
+	#platformRequirements : [
+		#pharo
+	],
+	#provisions : [
+		'Grease-Core-Tests-Platform@1.0.0'
+	]
+}

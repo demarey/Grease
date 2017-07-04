@@ -1,0 +1,17 @@
+CGOPackageUnit {
+	#description : '',
+	#version : '0.1.0-dev',
+	#package : #Grease-Tests-Core,
+	#timestamp : DateAndTime [ '2017-06-22T17:22:04.935735+02:00' ],
+	#src : CGOGitHostedPackageVersion {
+		#repository : CGOGitRepository {
+			#repositoryUrl : 'git@github.com:demarey/Grease-cargo.git',
+			#subdirectory : 'repository'
+		},
+		#packageName : #Grease-Tests-Core
+	},
+	#dependencies : [
+		#Grease-Core : [ ],
+		#Grease-Core-Platform : [ ]
+	]
+}
