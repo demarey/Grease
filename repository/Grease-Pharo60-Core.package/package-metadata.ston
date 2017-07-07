@@ -17,6 +17,6 @@ CGOPackageUnit {
 		#pharo6.x
 	],
 	#provisions : [
-		'Grease-Core-Platform@1.0.0'
+		'Grease-Core-Platform@1.4.0'
 	]
 }

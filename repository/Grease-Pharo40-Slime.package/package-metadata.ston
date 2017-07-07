@@ -17,6 +17,6 @@ CGOPackageUnit {
 		#pharo
 	],
 	#provisions : [
-		'Grease-Slime@1.0.0'
+		'Grease-Slime@1.4.0'
 	]
 }

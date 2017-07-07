@@ -17,6 +17,6 @@ CGOPackageUnit {
 		#pharo
 	],
 	#provisions : [
-		'Grease-Core-Tests-Platform@1.0.0'
+		'Grease-Core-Tests-Platform@1.4.0'
 	]
 }
