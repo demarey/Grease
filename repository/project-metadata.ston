@@ -17,7 +17,7 @@ CGOProject {
 	#assemblies : [
 		CGOPackageAssembly {
 			#description : '',
-			#version : '0.1.0-dev',
+			#version : '1.4.0',
 			#package : #Grease-Tests,
 			#timestamp : DateAndTime [ '2017-06-29T16:14:10.278474+02:00' ],
 			#parts : [
@@ -27,7 +27,7 @@ CGOProject {
 		},
 		CGOPackageAssembly {
 			#description : '',
-			#version : '0.1.0-dev',
+			#version : '1.4.0',
 			#package : #Slime-Tests,
 			#timestamp : DateAndTime [ '2017-07-04T14:17:15.336089+02:00' ],
 			#parts : [
@@ -39,15 +39,18 @@ CGOProject {
 	#virtualPackages : [
 		CGOVirtualPackageVersion {
 			#description : '',
-			#version : '0.1.0-dev',
+			#version : '1.4.0',
 			#package : #Grease-Core-Platform,
 			#timestamp : DateAndTime [ '2017-07-06T15:35:19.181222+02:00' ]
 		},
 		CGOVirtualPackageVersion {
 			#description : '',
-			#version : '0.1.0-dev',
+			#version : '1.4.0',
 			#package : #Grease-Core-Tests-Platform,
 			#timestamp : DateAndTime [ '2017-07-06T15:36:33.083819+02:00' ]
+		}
+	]
+}0' ]
 		}
 	]
 }

@@ -1,6 +1,6 @@
 CGOPackageUnit {
 	#description : '',
-	#version : '0.1.0-dev',
+	#version : '1.4.0',
 	#package : #Grease-Tests-Pharo20-Core,
 	#timestamp : DateAndTime [ '2017-06-22T17:23:07.165536+02:00' ],
 	#src : CGOGitHostedPackageVersion {

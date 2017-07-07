@@ -1,6 +1,6 @@
 CGOPackageUnit {
 	#description : '',
-	#version : '0.1.0-dev',
+	#version : '1.4.0',
 	#package : #Grease-Tests-Slime,
 	#timestamp : DateAndTime [ '2017-06-29T16:11:24.765374+02:00' ],
 	#src : CGOGitHostedPackageVersion {
