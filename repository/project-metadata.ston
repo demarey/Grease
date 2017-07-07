@@ -35,5 +35,19 @@ CGOProject {
 				#Grease-Tests : [ ]
 			]
 		}
+	],
+	#virtualPackages : [
+		CGOVirtualPackageVersion {
+			#description : '',
+			#version : '0.1.0-dev',
+			#package : #Grease-Core-Platform,
+			#timestamp : DateAndTime [ '2017-07-06T15:35:19.181222+02:00' ]
+		},
+		CGOVirtualPackageVersion {
+			#description : '',
+			#version : '0.1.0-dev',
+			#package : #Grease-Core-Tests-Platform,
+			#timestamp : DateAndTime [ '2017-07-06T15:36:33.083819+02:00' ]
+		}
 	]
 }
